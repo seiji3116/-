@@ -1,0 +1,11 @@
+﻿  AudioEngine.cpp
+  DynamicSoundEffectInstance.cpp
+  SoundCommon.cpp
+  SoundEffect.cpp
+  SoundEffectInstance.cpp
+  SoundStreamInstance.cpp
+  WaveBank.cpp
+  WaveBankReader.cpp
+  WAVFileReader.cpp
+  コードを生成中...
+  DirectXTKAudio_Desktop_2022_Win8.vcxproj -> C:\2年生課題\GravityFlight\Library\DirectXTK\Lib\Win32\Debug\Audio\DirectXTKAudioWin8.lib
